@@ -1,7 +1,7 @@
 // Fusion 360 Manage connection based on APS Application
-let clientId        = '';
-let clientSecret    = '';
-let tenant          = '';
+let clientId        = 'u1cMFno2dotnNGSGmArxfnDQdAWdjhZA';
+let clientSecret    = 'K5kmSF65A7KAHTGW';
+let tenant          = 'adsksully';
 let redirectUri     = 'http://localhost:8080/callback';
 
 
